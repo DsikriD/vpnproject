@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vpnproject/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/vpnproject/static/js/main.0c1229ed.chunk.js",
-    "main.js.map": "/vpnproject/static/js/main.0c1229ed.chunk.js.map",
+    "main.js": "/vpnproject/static/js/main.eb2c992a.chunk.js",
+    "main.js.map": "/vpnproject/static/js/main.eb2c992a.chunk.js.map",
     "runtime~main.js": "/vpnproject/static/js/runtime~main.6145ceaa.js",
     "runtime~main.js.map": "/vpnproject/static/js/runtime~main.6145ceaa.js.map",
     "static/js/2.ae026ab9.chunk.js": "/vpnproject/static/js/2.ae026ab9.chunk.js",
     "static/js/2.ae026ab9.chunk.js.map": "/vpnproject/static/js/2.ae026ab9.chunk.js.map",
     "index.html": "/vpnproject/index.html",
-    "precache-manifest.9ec35437389ecf026141ee9abd599ca2.js": "/vpnproject/precache-manifest.9ec35437389ecf026141ee9abd599ca2.js",
+    "precache-manifest.099c3d67017bcd6a8ca7dea1d1c513a5.js": "/vpnproject/precache-manifest.099c3d67017bcd6a8ca7dea1d1c513a5.js",
     "service-worker.js": "/vpnproject/service-worker.js",
     "static/css/main.435d5fe5.chunk.css.map": "/vpnproject/static/css/main.435d5fe5.chunk.css.map"
   }

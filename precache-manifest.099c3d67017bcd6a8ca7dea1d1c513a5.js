@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e2d97b23a6a15b8745646a6f42912a0",
+    "revision": "cd1670ef55ee3bb444130a703494c8ef",
     "url": "/vpnproject/index.html"
   },
   {
-    "revision": "496d01765d85850ca37e",
+    "revision": "ef40438f60c0128c3e4c",
     "url": "/vpnproject/static/css/main.435d5fe5.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vpnproject/static/js/2.ae026ab9.chunk.js"
   },
   {
-    "revision": "496d01765d85850ca37e",
-    "url": "/vpnproject/static/js/main.0c1229ed.chunk.js"
+    "revision": "ef40438f60c0128c3e4c",
+    "url": "/vpnproject/static/js/main.eb2c992a.chunk.js"
   },
   {
     "revision": "39918cb0b761827cb6df",
